@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppComment</string>
+    <string name="Comment">Comment</string>
+    <string name="GiveIdForDlt">Give ID For Delete</string>
+</resources>
